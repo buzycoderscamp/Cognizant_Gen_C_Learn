@@ -212,7 +212,7 @@
 <h6>Additional Handson</h6>
 
 - [Patient Management](https://github.com/RitamChakraborty/Cognizant_Gen_C_Learn/tree/master/Java%20Advanced%20Learning%20Path/Spring%20Core%2C%20Maven/Additional%20Handson/PatientManagement)
-- [EBill]()
+- [EBill](https://github.com/RitamChakraborty/Cognizant_Gen_C_Learn/tree/master/Java%20Advanced%20Learning%20Path/Spring%20Core%2C%20Maven/Additional%20Handson/EBill)
 
 <h4>Code Challenge</h4>
 
@@ -232,6 +232,7 @@
 
 <h6>Additional Handson</h6>
 
+- [Loan EMI Calculator](https://github.com/RitamChakraborty/Cognizant_Gen_C_Learn/tree/master/Java%20Advanced%20Learning%20Path/Unit%20Testing%2C%20Code%20Quality/Additional%20Handson/Loan%20EMI%20Calculator)
 - [TestCallBack](https://github.com/RitamChakraborty/Cognizant_Gen_C_Learn/tree/master/Java%20Advanced%20Learning%20Path/Unit%20Testing%2C%20Code%20Quality/Additional%20Handson/TestCallBack)
 
 <h4>Code Challenge</h4>

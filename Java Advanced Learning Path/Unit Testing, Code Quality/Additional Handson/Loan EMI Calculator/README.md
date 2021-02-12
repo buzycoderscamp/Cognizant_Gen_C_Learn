@@ -1,4 +1,4 @@
-# Loan EMI Calculator
+# Loan EMI Calculator (Unsolved)
 
 Centric  Bank allots various loans like Housing Loan, Vehicle Loan and Personal Loan. Antony wants to know the rate of interest on these loan types so that he can avail any one of these loans.
 
