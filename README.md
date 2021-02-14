@@ -188,6 +188,10 @@
 
 <h3>ICT</h3>
 
+- [Electricity Bill](https://github.com/RitamChakraborty/Cognizant_Gen_C_Learn/tree/master/Java%20Basics%20Learning%20Path/ICT/Electricity%20Bill)
+
+- [Rainfall Report Automation](https://github.com/RitamChakraborty/Cognizant_Gen_C_Learn/tree/master/Java%20Basics%20Learning%20Path/ICT/Rainfall%20Report%20Automation)
+
 - [WeCare Health Insurance](https://github.com/RitamChakraborty/Cognizant_Gen_C_Learn/tree/master/Java%20Basics%20Learning%20Path/ICT/Insurance)
 
 <h2>Java Advanced Learning Path</h2>
