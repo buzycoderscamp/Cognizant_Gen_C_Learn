@@ -126,7 +126,7 @@ If the policyId is valid then parse the data and calculate the payment amount el
 | -------------- | ----------- | ------- | ---------------- |
 | Parse data and calculate the payment amount for all the payments | Payment | void calculatePaymentAmount() | This method should calculate and set the payment amount based on the monthly Premium and no of Months for each payment. |
 
->CollectionAgency(utility class)
+> CollectionAgency(utility class)
 
 | Component Name | Type(Class) | Method | Responsibilities | Exception |
 | -------------- | ----------- | ------ | ---------------- | --------- |
